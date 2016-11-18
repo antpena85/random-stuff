@@ -21,9 +21,9 @@ public class JustAMain {
 		
 		//List<String> arrayToList = (List<String>) Arrays.;
 		
-		for(String z: arrayToList){
-			System.out.print(" " +s);
-		}
+//		for(String z: arrayToList){
+//			System.out.print(" " +s);
+//		}
 	}
 
 }
